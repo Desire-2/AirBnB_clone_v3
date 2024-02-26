@@ -10,12 +10,12 @@
 
 |                                                      Parts                                                    |                    Description                    |
 | :------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------  |
-| [1. Console](https://github.com/PierreBeaujuge/AirBnB_clone)                                                  |   Data model management via command interpreter   |
-| [2. Web static](https://github.com/PierreBeaujuge/AirBnB_clone/tree/master/web_static)                        |             Landing page in HTML and CSS          |
-| [3. MySQL storage](https://github.com/PierreBeaujuge/AirBnB_clone_v2/blob/master/models/engine/db_storage.py) | Migration of local file storage to MySQL database |
-| [4. Deploy static](https://github.com/PierreBeaujuge/AirBnB_clone_v2/blob/master/3-deploy_web_static.py)      |        Deploy web static on an Nginx server       |
-| [5. Web framework - templating](https://github.com/PierreBeaujuge/AirBnB_clone_v2/tree/master/web_flask)      |         Web server deployment with Flask          |
-| [6. RESTful API](https://github.com/PierreBeaujuge/AirBnB_clone_v3/tree/master/api)                           |      Creating endpoints for CRUD operations       |
+| [1. Console](https://github.com/Desire-2/AirBnB_clone)                                                  |   Data model management via command interpreter   |
+| [2. Web static](https://github.com/Desire-2/AirBnB_clone/tree/master/web_static)                        |             Landing page in HTML and CSS          |
+| [3. MySQL storage](https://github.com/Desire-2/AirBnB_clone_v2/blob/master/models/engine/db_storage.py) | Migration of local file storage to MySQL database |
+| [4. Deploy static](https://github.com/Desire-2/AirBnB_clone_v2/blob/master/3-deploy_web_static.py)      |        Deploy web static on an Nginx server       |
+| [5. Web framework - templating](https://github.com/Desire-2/AirBnB_clone_v2/tree/master/web_flask)      |         Web server deployment with Flask          |
+| [6. RESTful API](https://github.com/Desire-2/AirBnB_clone_v3/tree/master/api)                           |      Creating endpoints for CRUD operations       |
 | 7. Web dynamic                                                                                                | Loading of objects from client side using Jquery  |
 
 ### Expected web static for the final product:
@@ -61,7 +61,7 @@
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/Desire-2/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -196,7 +196,6 @@ No known bugs at this time.
 
 ## Authors
 
-* **Grace Waga** -[Github](https://github.com/Gralav)
-* **Alexa Orrico** - [Github](https://github.com/alexaorrico)
-* **Jennifer Huang** - [Github](https://github.com/jhuang10123)
+* **Desire Bikorimana** -[Github](https://github.com/Desire-2)
+
 
